@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Jafeth Perez (ss4tan)</h1>
-
+<img  src="1.jpg" height="400px" weight="400px">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=5B00A9&center=true&width=435&lines=%3Cimg+src%3D%22PWNED%22+onerror%3D%22alert(1)%22%3E;%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd;'+or+3%3D3--+-;PWNED" alt="Typing SVG" /></a>
 <h3 align="center">A passionate student of cybersecurity from Costa Rica who studies by his own.</h3>
 

@@ -68,6 +68,7 @@
 ###
 
 <div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=j4f3th&theme=radical&hide_border=true&border_radius=4.6&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j4f3th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2&custom_title=Lenguages" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=j4f3th&radius=16&theme=redical&area=true&order=5&custom_title=Contribution%20Gtaph&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>

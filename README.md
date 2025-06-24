@@ -65,17 +65,24 @@
   </a>
 </div>
 
+<h2 align="left">Social Media:</h2>
+
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j4f3th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2&custom_title=Lenguages" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j4f3th&radius=16&theme=redical&area=true&order=5&custom_title=Contribution%20Gtaph&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <a href="https://www.instagram.com/md5_j4f3th" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="j4f3th3mail@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j4f3th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2&custom_title=Lenguages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j4f3th&radius=16&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###

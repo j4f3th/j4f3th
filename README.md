@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/j4f3th/output/snake.svg" alt="Snake animation" />
+
 
 ###

@@ -57,9 +57,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/md5_j4f3th" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a><a href="j4f3th3mail@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.instagram.com/md5_j4f3th" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a><a href="j4f3th3mail@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -74,6 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/j4f3th/j4f3th/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/j4f3th/output/snake.svg" alt="Snake animation" />
 
 ###

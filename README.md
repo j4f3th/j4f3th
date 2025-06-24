@@ -82,6 +82,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/j4f3th/j4f3th/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-###
+<img src="https://raw.githubusercontent.com/j4f3th/j4f3th/output/snake.svg" alt="Snake animation" />

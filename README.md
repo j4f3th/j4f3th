@@ -1,25 +1,85 @@
+<br clear="both">
+
 <h1 align="center">Hi 👋, I'm Jafeth Perez (ss4tan)</h1>
-<img src="1.jpg" height="400px" weight="400px" align="middle">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=5B00A9&center=true&width=435&lines=%3Cimg+src%3D%22PWNED%22+onerror%3D%22alert(1)%22%3E;%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd;'+or+3%3D3--+-;PWNED" alt="Typing SVG" /></a>
-<h3 align="center">A passionate student of cybersecurity from Costa Rica who studies by his own.</h3>
 
-- 🌱 I’m currently learning **Hacking web from PortSwigger, CBBH's PATH from HTB, The Linux Command Line Bible Book (to improve bash skills in an advance level).**
+###
 
-- 📝 I regularly write articles on [https://j4f3th.github.io/](https://j4f3th.github.io/)
+<div align="center">
+  <img height="500" src="https://raw.githubusercontent.com/j4f3th/j4f3th/refs/heads/main/1.jpg"  />
+</div>
 
-- 💬 Ask me about **PHP, HTML, CSS, JS, Python, Bash, networking (CCNA 200-301), MySQL, AD DS.**
+###
 
-- 📫 How to reach me **j4f3th3mail@gmail.com.**
+<div align="center">
+  <img height="55" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=1000&color=5B00A9&center=true&width=435&lines=%3Cimg+src%3D%22PWNED%22+onerror%3D%22alert(1)%22%3E;%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd;%27+or+3%3D3--+-;PWNED"  />
+</div>
 
-- ⚡ Fun fact **I started to be autodidact since I was 16 years old.**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/md5_j4ff3th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md5_j4ff3th" height="30" width="40" /></a>
-</p>
+<p align="left">- 🌱 I’m currently learning **Hacking web from PortSwigger, CBBH's PATH from HTB, The Linux Command Line Bible Book (to improve bash skills in an advance level).**<br><br>- 📝 I regularly write articles on [https://j4f3th.github.io/](https://j4f3th.github.io/)<br><br>- 💬 Ask me about **PHP, HTML, CSS, JS, Python, Bash, networking (CCNA 200-301), MySQL, AD DS.**<br><br>- 📫 How to reach me **j4f3th3mail@gmail.com.**<br><br>- ⚡ Fun fact **I started to be autodidact since I was 16 years old.**</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
+###
 
+<br clear="both">
+
+<h3 align="center">Skills:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Social Media:</h3>
+
+###
+
+<div align="left">
+  <a href="https://instagram/md5_j4ff3th" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j4f3th&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=j4f3th&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j4f3th&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/j4f3th/j4f3th/output/snake.svg" alt="Snake animation" />
 
 

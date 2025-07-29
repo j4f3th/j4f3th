@@ -14,7 +14,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Hacking web from PortSwigger, C**
+- 🌱 I’m currently learning **Hacking web from PortSwigger, Linux Privilage Escalation, C.**
 - 📝 I regularly write articles on [https://j4f3th.github.io/](https://j4f3th.github.io/)
 - 💬 Ask me about **PHP, HTML, CSS, JS, Python, Bash, networking (CCNA 200-301), MySQL, AD DS.**
 - 📫 How to reach me **j4f3th3mail@gmail.com.**

@@ -14,7 +14,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Hacking web from PortSwigger, CBBH's PATH from HTB, The Linux Command Line Bible Book (to improve bash skills in an advance level).**
+- 🌱 I’m currently learning **Hacking web from PortSwigger, C**
 - 📝 I regularly write articles on [https://j4f3th.github.io/](https://j4f3th.github.io/)
 - 💬 Ask me about **PHP, HTML, CSS, JS, Python, Bash, networking (CCNA 200-301), MySQL, AD DS.**
 - 📫 How to reach me **j4f3th3mail@gmail.com.**
@@ -61,7 +61,7 @@
 ###
 
 <div align="left">
-<a href="https://sharetext.io/0ce647b3" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://sharetext.io/0ce647b3" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
 ###
